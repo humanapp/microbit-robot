@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/microbit-robot/static/css/main.d1d02bd0.css",
+    "main.js": "/microbit-robot/static/js/main.9779ae0e.js",
+    "index.html": "/microbit-robot/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d1d02bd0.css",
+    "static/js/main.9779ae0e.js"
+  ]
+}
